@@ -19,5 +19,7 @@ int main()
 
 	prueba.mostrarCadena(mensaje);
 
+	cout << "Hello, it's me, Marcos"
+			<< endl;
 	return 0;
 }
